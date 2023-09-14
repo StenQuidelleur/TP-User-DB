@@ -19,12 +19,6 @@ utilisateurs = [
 ]
 ```
 
-Vous devez être capable de :
-
-1. Calculer le total des achats pour un utilisateur donné.
-2. Trouver l'utilisateur ayant dépensé le plus d'argent.
-3. Trouver tous les utilisateurs n'ayant effectué aucun achat.
-
 **Consignes** :
 
 1. **Total des achats** : Créez une fonction pour calculer le total des achats d'un utilisateur spécifié par son "id".
